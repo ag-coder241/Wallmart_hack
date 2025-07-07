@@ -1,0 +1,5 @@
+/build/
+/rewards.db
+*.exe
+*.o
+*.out
